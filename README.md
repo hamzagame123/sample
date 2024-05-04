@@ -1,2 +1,2 @@
-# my firs t git hub pages website
+# my first github pages website
 
